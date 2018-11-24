@@ -1,5 +1,10 @@
 # React-SPA-App
-Built using JavaScript(ES6), ReactJs, React Routing, PHP(Laravel), CRUD
+This Project is a Single Page App (SPA) for Task management, build using ReactJs and React-Routing in the Frontend, and CRUD and PHP(Laravel) in the Backend. It has a Login feature, and Create-Read-Update-Delete Task features.
 
-## Project Description:
-This Project is a Single Page App (SPA) for Task management, build using ReactJs and React-Routing in the Frontend, and CRUD and Laravel in the Backend. It has a Login feature, and Create-Read-Update-Delete Task features.
+## Technologies used:
+- JavaScript(ES6), 
+- ReactJs, 
+- Single Page App (SPA)
+- React Routing, 
+- PHP(Laravel), 
+- CRUD
